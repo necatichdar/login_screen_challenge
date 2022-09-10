@@ -1,15 +1,8 @@
-# Traveler App Flutter Ankara Etkinliği 2022
+# Traveler App Flutter Ankara Events 2022
 
 
-## Getting Started
+Source : https://dribbble.com/shots/16316303-Login-and-Sign-up-Screens/attachments/8205759?mode=media
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots              
+:-------------------------:| 
+<img src="https://github.com/necatichdar/login_screen_challenge/blob/main/screenshots/screenshot.png" width="300" alt="Alt text" title="Screenshot">
